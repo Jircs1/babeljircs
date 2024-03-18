@@ -13,9 +13,9 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "@babel/helper-module-transforms": "workspace:^",
+    "@babel/helper-module-transforms": "7.0.0",
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/helper-simple-access": "workspace:^"
+    "@babel/helper-simple-access": "7.0.0"
   },
   "keywords": [
     "babel-plugin"
