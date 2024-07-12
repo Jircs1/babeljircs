@@ -28,7 +28,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@babel/helper-transform-fixture-test-runner": "workspace:^"
+    "@babel/helper-transform-fixture-test-runner": "7.0.0"
   },
   "engines": {
     "node": ">=6.9.0"
